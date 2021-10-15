@@ -1,0 +1,11 @@
+[package]
+name = "sign-logger"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+description = "The only logger youll ever need, inspired by sign-logger on NPM"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
